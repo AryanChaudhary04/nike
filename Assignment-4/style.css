@@ -1,0 +1,278 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.nav-bar{
+    height: 35px;
+    background-color: rgb(211, 209, 209);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.desk1{
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 25px;
+    width: 25px;
+    padding-left: 40px;
+}
+
+.icon{
+    margin-left: 25px;
+}
+
+.desk2{
+    display: flex;
+    align-items: center;
+}
+
+.desk2 h5{
+    margin-left: 10px;
+    padding-right: 20px;
+}
+
+.nav-panel{
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Nike-logo{
+    height: 70px;
+    width: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.nike-logo{
+    height: 30px;
+    width: 60px;
+    
+    /* padding-left: 25px; */
+}
+
+.text{
+    height: 30px;
+    display: flex;
+}
+
+.text p{
+    margin-left: 20px;
+}
+
+.text p:hover{
+    text-decoration: underline;
+    cursor: pointer ;
+}
+.input{
+    height: 35px;
+    width: 200px;
+    color: black;
+    background-color: #f5f5f5;
+    border: none;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-search{
+    height: 35px;
+    width: 150px;
+    background-color: #f5f5f5;
+    border: none;
+}
+
+.icon-glass{
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    padding-left: 7px;
+}
+
+.smt{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.heart{
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+
+/* .lock{
+    font-size: 1.5rem;
+} */
+
+/* .box1{
+    height: 500px;
+    width: 1000px;
+} */
+
+.vid{
+    max-width: 100%;
+}
+.box2{
+    height: 100px;
+    margin-top: 80px;
+}
+
+.win{
+    height: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.meet{
+    height: 20px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.button{
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    color: white;
+}
+
+.Ex-air{
+    height: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.sh-air{
+    height: 40px;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.box3{
+    height: 400px;
+    width: 900px;
+    display: flex;
+    /* justify-content: ; */
+    margin-top: 50px;
+
+}
+
+.baby-box1{
+    height: 500px;
+    width: 700px;
+}
+
+.bra{
+    height: 500px;
+    width: 700px; 
+}
+
+.bra2{
+    /* position: absolute; */
+    margin-top: 50px;
+    height: 500px;
+    width: 750px;
+}
+
+.alate-bra{
+    position: relative;
+    top: 500px;
+    padding-left: 10px;
+}
+
+.click{
+    color: black;
+    background-color: white;
+    border: none;
+    height: 40px;
+    width: 70px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.baby-box2{
+    height: 500px;
+    width: 600px;
+}
+
+.bag{
+    height: 500px;
+    width: 500px; 
+    margin-top: 50px;
+}
+
+.bag2{
+    /* position: absolute; */
+    height: 500px;
+    width: 750px;
+    margin-left: 40px;
+}
+
+.children{
+    position: relative;
+    top: 450px;
+    padding-left: 10px;
+}
+
+.box4{
+    display: flex;
+    margin-top: 150px;
+}
+
+
+
+.box5{
+    height: 100px;
+}
+
+.new{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.arrivals{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.new-arrival{
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 20px 20px 20px 20px;
+    border: none;
+}
+
+.box6{
+    height: 600px;
+    width: 1000px;
+}
+
+.pic{
+    height: 600px;
+    width: 1000px;
+    object-fit: contain;
+}
+
+.picture{
+    height: 600px;
+    width: 1500px;
+}
